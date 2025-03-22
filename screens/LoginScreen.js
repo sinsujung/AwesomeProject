@@ -80,11 +80,11 @@ const styles = StyleSheet.create({
   buttonText: {
     color: "white",
     fontWeight: "500",
-    fontSize: "17",
+    fontSize: 17,
   },
   buttonOutlineText: {
     color: "black",
     fontWeight: "500",
-    fontSize: "17",
+    fontSize: 17,
   },
 });
